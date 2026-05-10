@@ -92,8 +92,8 @@ This SDK exposes every endpoint of the OFMAPI OnlyFans API:
   history, period comparisons, top-percentage statistics
 - 🌐 **Public profile data** — discovery API, search across millions of
   public OnlyFans creator profiles
-- 🔗 **Smart Links & tracking** — server-side conversion tracking, Meta-Pixel
-  feed, free-trial links
+- 🔗 **Smart Links & tracking** — server-side conversion tracking, full
+  subscription attribution chain, free-trial links
 - 🔔 **Webhooks** — endpoint management, signing-secret rotation, replay
 - 📡 **Realtime** — multiplexed WebSocket of every event from your accounts
 
