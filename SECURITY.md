@@ -50,8 +50,8 @@ deserve:
 
 - AES-256-GCM encryption for credentials at rest, with HSM-backed envelope keys
 - Strict secrets boundary — credentials never logged, displayed, or returned by any API
-- Bank-grade account safety architecture — dedicated residential IP per connected
-  account, geo-locked to original sign-up region
+- Bank-grade account safety architecture — multi-layer defense across every
+  connected account: isolation, integrity-checked traffic, and active monitoring
 - Stripe-style HMAC-SHA256 signed webhooks with replay-window protection and
   dual-secret rotation
 - SOC 2 Type II preparation underway

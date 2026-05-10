@@ -176,7 +176,7 @@ End-to-end OnlyFans API recipes live in [`ofmapi/examples`](https://github.com/o
 ## Trust & safety
 
 - 🔒 AES-256-GCM credential encryption with HSM-backed envelope keys
-- 🛡️ Bank-grade account safety architecture — dedicated residential IP per account
+- 🛡️ Bank-grade account safety architecture — multi-layer defense engineered to keep accounts safe and online
 - 🚫 Strict secrets boundary — credentials never logged or returned by any API
 - 🛂 SOC 2 Type II preparation underway
 - 🔐 Stripe-style HMAC-SHA256 signed webhooks with replay-window protection
