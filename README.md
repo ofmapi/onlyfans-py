@@ -119,6 +119,22 @@ resp = client.messages.send(
 API keys are scoped, IP-allowlistable, and rotatable from the dashboard at
 [app.ofmapi.com/api-keys](https://app.ofmapi.com/api-keys).
 
+## Build the next generation of OnlyFans software
+
+Use the OFMAPI Python SDK to build products in the spirit of:
+
+- 🤖 **AI chat platforms** like Botly, Supercreator, Substy, ChatPersona
+- 📊 **Creator CRMs** like Infloww, OnlyMonster, CreatorHero
+- 📈 **Analytics & metrics tools** like FansMetric, FansIQ
+- 🎯 **Traffic & attribution platforms** like CreatorTraffic
+- 🔗 **Link-in-bio + deeplink products** like Juicy Bio, Hello Butter
+- 🧠 **AI agents** that operate connected creator accounts via Claude, ChatGPT, Cursor, or Manus
+- 🛠️ **Agency back-offices** managing hundreds of accounts from a single dashboard
+
+Whatever you're building, OFMAPI handles the OnlyFans plumbing — authentication,
+proxies, captcha, request signing, WebSocket reconnection, durable webhook
+delivery — so you can ship product and not infrastructure.
+
 ## Verifying OnlyFans webhook signatures
 
 ```python
