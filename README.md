@@ -132,8 +132,9 @@ Use the OFMAPI Python SDK to build products in the spirit of:
 - 🛠️ **Agency back-offices** managing hundreds of accounts from a single dashboard
 
 Whatever you're building, OFMAPI handles the OnlyFans plumbing — authentication,
-proxies, captcha, request signing, WebSocket reconnection, durable webhook
-delivery — so you can ship product and not infrastructure.
+real-time delivery, account safety, scale, and the continuous updates that
+keep your integration working as the platform evolves — so you can ship
+product, not infrastructure.
 
 ## Verifying OnlyFans webhook signatures
 
