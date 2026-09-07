@@ -32,4 +32,4 @@ your contribution. Sign your commits with `git commit -s`.
 ## Need help?
 
 - Open a Discussion on the repo
-- Email **hello@ofmapi.com** for design questions
+- Ask design questions through https://ofmapi.com/contact

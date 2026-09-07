@@ -14,7 +14,7 @@ after a new minor ships.
 
 **Please do not open a public GitHub issue for security reports.**
 
-Email **security@ofmapi.com** with:
+Report it through https://ofmapi.com/contact?topic=security (choose the “Security report” topic) with:
 
 - a description of the issue and its impact,
 - steps to reproduce, ideally with a minimal proof-of-concept,
